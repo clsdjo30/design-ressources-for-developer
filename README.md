@@ -16,7 +16,7 @@
 ## Colors
 |Website|description |
 ---------|-----------|
-|[]()  | |
+|[Coolors](https://coolors.co/)| |
 |[]()  | |
 |[]()  | |
 
@@ -30,13 +30,13 @@
 ## Stocks Photos
 |Website|description |
 ---------|-----------|
-|[]()  | |
+|[Unsplash]()| |
 |[]()  | |
 |[]()  | |
 
 ## Stocks Photos
 |Website|description |
 ---------|-----------|
-|[Unsplash](htpps://unsplash.com/) |free bank image & vidéo  |
+|[Unsplash](htpps://unsplash.com/)|free bank image & vidéo  |
 |[]() | |
 |[]() | |
