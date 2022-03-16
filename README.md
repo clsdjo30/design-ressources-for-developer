@@ -8,6 +8,35 @@
 - [Tailwind Components](#tailwind-components)
 - [Stocks Photos](#stocks-photos)
 
-##fonts
+##Fonts
+|Website|description |
+---------|-----------|
+|[]() | |
 
-##colors
+##Colors
+|Website|description |
+---------|-----------|
+|[]()  | |
+|[]()  | |
+|[]()  | |
+
+##Icons
+|Website|description |
+---------|-----------|
+|[]()  | |
+|[]()  | |
+|[]()  | |
+
+##Stocks Photos
+|Website|description |
+---------|-----------|
+|[]()  | |
+|[]()  | |
+|[]()  | |
+
+##Stocks Photos
+|Website|description |
+---------|-----------|
+|[Unsplash](htpps://www.unsplash.com) |free bank image & vidéo  |
+|[]() | |
+|[]() | |
