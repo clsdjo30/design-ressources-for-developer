@@ -30,13 +30,13 @@
 ## Stocks Photos
 |Website|description |
 ---------|-----------|
-|[Unsplash]()| |
-|[]()  | |
-|[]()  | |
+|[Unsplash](https://unsplash.com/)| Free bank image & video |
+|[Pexel](https://Pexel.com/)| Free image with licence |
+|[Pixabay](https://pixabay.com/)| Free images bank|
 
-## Stocks Photos
+## Tailwind Components
 |Website|description |
 ---------|-----------|
-|[Unsplash](htpps://unsplash.com/)|free bank image & vidéo  |
+|[]()|free bank image & vidéo  |
 |[]() | |
 |[]() | |
