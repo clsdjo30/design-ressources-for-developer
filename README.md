@@ -23,7 +23,7 @@
 ## Icons
 |Website|description |
 ---------|-----------|
-|[]()  | |
+|[FontAwesome]()  |Free icône with free plan |
 |[]()  | |
 |[]()  | |
 
@@ -37,6 +37,7 @@
 ## Tailwind Components
 |Website|description |
 ---------|-----------|
-|[]()|free bank image & vidéo  |
-|[]() | |
-|[]() | |
+|[Tail Block](https://tailblocks.cc/)|Free Component|
+|[Tailwind Snippet](https://www.tailwindsnippets.ml/snippets)|Free Components with Viscose Snippet generator|
+|[Tailwind UI kit](https://app.tailwinduikit.com/components) |tail Component with free plan  |
+|[tailwind Glassmorphism](https://tailwindcss-glassmorphism.vercel.app/)|Glassmorphism generator class|
