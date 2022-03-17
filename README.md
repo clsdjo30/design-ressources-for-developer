@@ -4,6 +4,7 @@
 
 - [Font](#fonts)
 - [Colors](#colors)
+- [Logo](#logo)
 - [Icons](#icons)
 - [Tailwind Components](#tailwind-components)
 - [Stocks Photos](#stocks-photos)
@@ -19,6 +20,13 @@
 |[Coolors](https://coolors.co/)| |
 |[]()  | |
 |[]()  | |
+
+## Logo
+|Website|description |
+---------|-----------|
+|[SVG Porn](https://svgporn.com/)|1000+ high-quality SVG logos|
+|[]()||
+|[]()||
 
 ## Icons
 |Website|description |
