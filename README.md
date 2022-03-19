@@ -6,6 +6,7 @@
 - [Colors](#colors)
 - [Logo](#logo)
 - [Icons](#icons)
+- [Vector & Clipart](#vector-&-clipart)
 - [Tailwind Components](#tailwind-components)
 - [Stocks Photos](#stocks-photos)
 
@@ -34,6 +35,11 @@
 |[FontAwesome]()  |Free icône with free plan |
 |[]()  | |
 |[]()  | |
+
+##Vector & Clipart
+|Website|description |
+---------|-----------|
+|[Vecteezy](https://www.vecteezy.com/)|Fond & download free Vector art|
 
 ## Stocks Photos
 |Website|description |
